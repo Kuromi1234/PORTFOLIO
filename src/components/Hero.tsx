@@ -10,7 +10,7 @@ const Hero = () => {
       <div className="absolute inset-0 z-0 pointer-events-none">
         <LightRays
           raysOrigin="top-center"
-          raysColor="#00ffff"
+          raysColor="indigo-500"
           raysSpeed={1.5}
           lightSpread={0.8}
           rayLength={1.2}
